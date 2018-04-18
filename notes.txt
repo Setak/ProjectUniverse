@@ -3,5 +3,20 @@ Thoughts and Ideas for Project
 
 multiple worlds, each one being it's own standalone game
 
-idea of skills like eso
-idea of similarity to free realms
+skills like eso?
+similarity to free realms
+
+currency/token rewards for each universe that can't be used on different universes, yet tradeable between players
+
+random events handled by admins? can be kind of DM-like
+
+questboards with randomly??, maybe, generated quests (similar to how Elite Dangerous handles it?)
+  - EQUAL REWARDS FOR TIME INVESTED
+    - 5 min quest = 5g
+    - 10 min quest = 10g
+    - 60 min quest = 60g
+  - trying to think of a way to NOT suffer the same fate as Sea of Thieves
+    - what happened with sea of thieves, is it just the lack of things to do?
+    - lack of variety in quests
+    - lack of variety in enemies
+    - lack of variety in purchasable rewards

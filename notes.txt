@@ -20,3 +20,13 @@ questboards with randomly??, maybe, generated quests (similar to how Elite Dange
     - lack of variety in quests
     - lack of variety in enemies
     - lack of variety in purchasable rewards
+
+Dungeons - you have to kill all enemies on a level to proceed to the next, play with spawn times and make it variable depending on # of people on the level, to keep it fair for all group sizes
+
+------------
+Worlds Ideas
+------------
+
+Wild West World
+Fantasy World
+Racing World

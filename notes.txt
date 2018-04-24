@@ -30,3 +30,23 @@ Worlds Ideas
 Wild West World
 Fantasy World
 Racing World
+
+Teleportation to different worlds? Would like a cost associated
+
+---------------
+Character Ideas
+---------------
+
+Levels 1 - 100
+
+Level 1
+HP: 25
+
+Level 100
+HP: 2500?
+
+XP Needed from Level 1 > 2 = 1000xp, with an increasing curve, plan is to make levels take awhile
+
+Death - you lose everything on you, but retain your bank
+Storage is Unlimited?
+How do we make storage almost unimportant, we do NOT want inventory management the game

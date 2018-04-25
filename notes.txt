@@ -1,16 +1,18 @@
-Thoughts and Ideas for Project
-------------------------------
+Thoughts and Ideas for Project Universe
+---------------------------------------
 
 multiple worlds, each one being it's own standalone game
 
 skills like eso?
 similarity to free realms
 
-currency/token rewards for each universe that can't be used on different universes, yet tradeable between players
+currency/token rewards for each universe that can't be used on different universes, yet tradeable between players?
+or just credits that can be used everywhere?
+the thought for the tokens for each world would mean you can't farm on one world and become great at another, but maybe individual skills would offset this?
 
 random events handled by admins? can be kind of DM-like
 
-questboards with randomly??, maybe, generated quests (similar to how Elite Dangerous handles it?)
+quest boards with randomly??, maybe, generated quests (similar to how Elite Dangerous handles it?)
   - EQUAL REWARDS FOR TIME INVESTED
     - 5 min quest = 5g
     - 10 min quest = 10g
@@ -37,16 +39,71 @@ Teleportation to different worlds? Would like a cost associated
 Character Ideas
 ---------------
 
-Levels 1 - 100
+Levels 1 - 99
 
 Level 1
 HP: 25
 
-Level 100
-HP: 2500?
+Level 99
+HP: 2500? idea is for it not to be ridiculous, we're not going to be increasing max level, especially if we keep the idea of having skills as independent levels
 
-XP Needed from Level 1 > 2 = 1000xp, with an increasing curve, plan is to make levels take awhile
+Attack Power
+AttackPower = (CharacterLevel/10 + Weapon Bonus) x SkillLevel = INTEGER
+example: Dravian (lv 13), Sword level 10, wearing a Longsword +2
+AttackPower = 33 = (13/10 + 2) x 10
+example: Dravian (lv 99), Sword level 100, wearing a Longsword + 10
+AttackPower = 1,990 = (99/10 + 10) x 100
+example: Dravian (lv 99), Bow level 5, wearing a Bow + 10
+AttackPower = 100 = (99/10 + 10) x 5
 
-Death - you lose everything on you, but retain your bank
+XP Needed from Level 1 > 2 = 1000xp?
+with an increasing curve, plan is to make levels take awhile, think PSO/Diablo 2 where max level characters were rare
+losing levels/gear on death should make somebody who gets to level 99 a rare sight
+not level-locking gear and possibly? being able to store it in a vault and not lose it on death will hopefully not force high level characters to stay away from danger, we don't want that
+XP granted = 100% +- 5 levels, and then 20% < from 6-10 level difference
+
+Death - you lose everything on you, but retain your bank?
 Storage is Unlimited?
 How do we make storage almost unimportant, we do NOT want inventory management the game
+
+Character Storage = Standard Paperdoll + Backpack
+Starter Backpack = Nothing, ability to get things like fanny packs to regular backpacks, that have increased storage, nothing too crazy though, force people only keep so much on them
+have to make decisions on what gear you are taking, obviously with more backpack space you can bring more along, but risk losing it all, including your backpack
+
+------
+Quests
+------
+
+Quest rewards once per avatar, unique rewards shouldn't be truly unique, we don't want to create a "golden path" to xp or OP items
+able to be repeatable, so you can help your friends, but the NPCs react like you've already done this, while letting you go through, load into areas, but no extra experience or quest rewards
+
+------
+Skills
+------
+
+Unarmed (always 1, never levels up)
+One Hand Melee
+Two Hand Melee
+Bows
+Shield (also increases defense)
+Pistol
+Rifle
+
+Offensive Magic?
+Defensive Magic?
+Summoning Magic?
+Could use some ideas for better Magic Skill Names
+
+-----
+Magic
+-----
+
+How can magic work in this?
+Depending on Level, you gain magic spell slots, magic spells are found as items/quest rewards and have to be "learned/equipped"
+Cooldown on re-learning Magic, if you unlearn it wait some time before you can relearn it, to prevent people from abusing the amount of spell slots
+whether that's building the cooldown on the individual spells, or the spell slots, maybe having a cooldown of sorts on the spell slots instead of the spells themselves would be better
+if we go that route, have to come up with an in-lore reason as to why
+Every 10 Levels = Gain 1 Magic Slot?
+Once learned they can be unlearned and placed back in your inventory
+Different Spells require certain skill level in that school of magic
+example: Summon Imp (Summoning Magic lvl 10), Summon Banshee (Summoning Magic lvl 70)

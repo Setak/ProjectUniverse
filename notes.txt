@@ -62,6 +62,9 @@ losing levels/gear on death should make somebody who gets to level 99 a rare sig
 not level-locking gear and possibly? being able to store it in a vault and not lose it on death will hopefully not force high level characters to stay away from danger, we don't want that
 XP granted = 100% +- 5 levels, and then 20% < from 6-10 level difference
 
+by keeping all damage the same and only changing looks and animations, to make quicker weapons hit faster but do the same amount of damage over time  -- Felix
+Also combat should be resource based, so you can make crits and weak points on monsters where you hit those and you get more resources back -- Felix
+
 Death - you lose everything on you, but retain your bank?
 Storage is Unlimited?
 How do we make storage almost unimportant, we do NOT want inventory management the game

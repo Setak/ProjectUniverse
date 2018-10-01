@@ -115,3 +115,12 @@ Every 10 Levels = Gain 1 Magic Slot?
 Once learned they can be unlearned and placed back in your inventory
 Different Spells require certain skill level in that school of magic
 example: Summon Imp (Summoning Magic lvl 10), Summon Banshee (Summoning Magic lvl 70)
+
+-----
+World
+-----
+
+Open World similar to Dark Souls, where the areas are interconnected, instead of bonfires, use Campfires, which have various NPCs (maybe huts/taverns) where you can stock up on pots/etc.
+Have a wagon that can ferry you to other locations that you've already visited (or back to main town)
+You can summon other people to join your game from that specific Campfire.
+Can you use the campfire to respawn enemies like DS?
